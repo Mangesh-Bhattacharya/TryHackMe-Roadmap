@@ -37,7 +37,15 @@ All rooms mentioned below are free. ENJOY HACKING!!
 
 # All Room Links
 ## Introductory Rooms
-
+   - https://tryhackme.com/room/hello
+   - https://tryhackme.com/room/howtousetryhackme
+   - https://tryhackme.com/room/gettingstarted
+   - https://tryhackme.com/room/welcome
+   - https://tryhackme.com/room/tutorial
+   - https://tryhackme.com/room/openvpn
+   - https://tryhackme.com/room/beginnerpathintro
+   - https://tryhackme.com/room/startingoutincybersec
+   - https://tryhackme.com/room/introtoresearch
 ## Linux Fundamentals
 
 ## Windows Fundamentals
