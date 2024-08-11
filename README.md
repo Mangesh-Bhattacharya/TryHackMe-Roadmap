@@ -36,7 +36,54 @@ All rooms mentioned below are free. ENJOY HACKING!!
 | **Total Rooms**         |       **378**   |                           |
 
 # All Room Links
-## Intro Rooms
+## Introductory Rooms
+
 ## Linux Fundamentals
+
 ## Windows Fundamentals
-## 
+
+## Basic Rooms
+
+## Reconnaissance
+
+## Scripting
+
+## Networking
+
+## Tooling
+
+## Crypto & Hashes
+
+## Steganography
+
+## Web
+
+## Android
+
+## Forensics
+
+## Wifi Hacking
+
+## Reverse Engineering
+
+## Malware Analysis
+
+## Privilege Escalation
+
+## Windows
+
+## Active Directory
+
+## PCAP Analysis
+
+## Buffer Overflow
+
+## Easy CTF
+
+## Medium CTF
+
+## Hard CTF
+
+## Misc
+
+## Special Events
